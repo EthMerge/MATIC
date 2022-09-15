@@ -1,1 +1,2 @@
-# ETH MERGE POLYGON MAINNET
+# ETH MERGE { POLYGON MAINNET }
+https://ethmerge.github.io/MATIC/
